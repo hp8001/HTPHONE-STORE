@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic-cart" transform="translate(-909 -168)">
+    <rect id="icon_frame" data-name="icon frame" width="24" height="24" transform="translate(909 168)" fill="none"/>
+    <g id="Group_11697" data-name="Group 11697" transform="translate(1 0.953)">
+      <path id="Path_3926" data-name="Path 3926" d="M189.983,24.56a1.662,1.662,0,1,1-3.324,0" transform="translate(730.574 162.074)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_3927" data-name="Path 3927" d="M196.654,24.56a1.662,1.662,0,0,1-3.324,0" transform="translate(730.935 162.074)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_3928" data-name="Path 3928" d="M177.677,6.465h3.643l3.449,12.927h12.2l2.711-10.35H182.262" transform="translate(731.323 163.582)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

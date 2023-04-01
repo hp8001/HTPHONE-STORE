@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="ic-lang-cn" transform="translate(-820 -166)">
+    <rect id="icon_frame" data-name="icon frame" width="16" height="16" transform="translate(820 166)" fill="none"/>
+    <g id="icon" transform="translate(821.5 167)">
+      <rect id="Rectangle" width="14" height="14" rx="4" transform="translate(-0.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="中" d="M3.523,7.627H2.7V4.909H.8v.448H0V1.388H2.7V0h.823V1.388h2.7v3.97h-.8V4.909H3.523V7.627Zm0-5.41h0V4.079H5.429V2.217H3.523ZM.8,2.217h0V4.079H2.7V2.217H.8Z" transform="translate(3.386 3.2)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

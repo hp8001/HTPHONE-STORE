@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic-login" transform="translate(-909 -168)">
+    <rect id="icon_frame" data-name="icon frame" width="24" height="24" transform="translate(909 168)" fill="none"/>
+    <g id="Group_11697" data-name="Group 11697" transform="translate(0.291 5.998)">
+      <path id="Path_3929" data-name="Path 3929" d="M1,27.933v-.762c0-3.784,4.317-6.852,9.642-6.852s9.641,3.067,9.641,6.852v.762" transform="translate(910.068 156.07)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_3930" data-name="Path 3930" d="M16.243,10.048a4.591,4.591,0,1,1-4.592-4.592A4.592,4.592,0,0,1,16.243,10.048Z" transform="translate(909.058 158.547)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
